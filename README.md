@@ -21,6 +21,18 @@ https://www.coursera.org/learn/sql-data-science/
 
 
 ## M2 - Introduction to Relational Databases and Tables
+- create table
+![image](https://github.com/user-attachments/assets/a52443f7-6b4e-411c-8e05-6ce82f3bbc7f)
+
+- alter table (add, alter data type, drop coloumn, delete all rows)
+![image](https://github.com/user-attachments/assets/4002badf-6b02-4d9e-93a3-afe5f26b8c87)
+![image](https://github.com/user-attachments/assets/bad7f6b8-60a2-4517-a3da-55c45dfad195)
+![image](https://github.com/user-attachments/assets/854e4c07-5ad7-444b-bec2-7703f67fd95d)
+![image](https://github.com/user-attachments/assets/0b11e408-ba6e-49a5-b328-c05e16966f5c)
+
+
+
+
 
 ## M3 - Intermediate SQL
 
