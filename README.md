@@ -68,10 +68,32 @@ https://www.coursera.org/learn/sql-data-science/
 #### Built-in Database Functions
 ![image](https://github.com/user-attachments/assets/c3317076-8700-41cc-b3bd-f0c63fa653d9)
 
-- aggregate functions
+- aggregate functions, column functions
   ![image](https://github.com/user-attachments/assets/ac574cea-fa0d-4292-b216-36a7327efb9a)
 ![image](https://github.com/user-attachments/assets/6eccdd3c-691b-4f82-b8ce-ea9dd88ad0e5)
 ![image](https://github.com/user-attachments/assets/2fa59523-26f2-498b-b2a0-7a59cdc67435)
+
+- Scalar and String functions
+![image](https://github.com/user-attachments/assets/17dea2e4-64c9-483e-8ee4-5f6cd5fb0556)
+![image](https://github.com/user-attachments/assets/ca434ef5-3898-4579-a3cd-94671fa13596)
+![image](https://github.com/user-attachments/assets/dc962cb4-0921-4181-9679-466d63ba3a84)
+![image](https://github.com/user-attachments/assets/c67c0328-97ac-46a5-bcd0-40572d1a1a77)
+![image](https://github.com/user-attachments/assets/7c29f490-08ef-44a5-a9ee-aa2fdf280462)
+
+#### Date and Time Built-in Functions
+![image](https://github.com/user-attachments/assets/b1efbd04-78e4-47c5-84c2-f5dc07a55298)
+![image](https://github.com/user-attachments/assets/8f31d949-34f4-4ad1-afbb-7350f4295393)
+
+![image](https://github.com/user-attachments/assets/4eb875ea-87dd-4161-b7f1-d276f9a0a220)
+![image](https://github.com/user-attachments/assets/e42dd307-720b-4208-9e3b-be46017dc660)
+![image](https://github.com/user-attachments/assets/8b592a6b-967e-438e-a1c8-eef89b1f3cfb)
+
+- date or time arithmetic
+  ![image](https://github.com/user-attachments/assets/9244ea5a-ecd2-47e9-ba73-ab02bcad31b7)
+![image](https://github.com/user-attachments/assets/d82cf967-6588-46aa-aa49-4db43232df69)
+
+
+
 
 
 
