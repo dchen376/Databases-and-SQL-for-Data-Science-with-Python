@@ -178,7 +178,33 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/c1d1a902-d359-428c-b39d-9a5ee8bec2c7)
 
 
+#### Analyzing data with Python (with Pandas, matplotlib.pyplot, seaborn)
+- instructional labs & learning tools interoperability (or LTI) labs
+![image](https://github.com/user-attachments/assets/941ca19b-7473-463a-a7cc-e7106ba7912f)
 
+![image](https://github.com/user-attachments/assets/1ea1b34e-cacb-470f-85d2-c4799e652d50)
+![image](https://github.com/user-attachments/assets/f2044906-c46e-4c77-a8f3-65a5f5c9d37e)
+
+- pandas
+![image](https://github.com/user-attachments/assets/1e49d5da-7bec-48db-b7de-b578acd68581)
+![image](https://github.com/user-attachments/assets/483e82ee-bcb5-4c4d-a6a4-aa8f02a8d10e)
+![image](https://github.com/user-attachments/assets/d4f9a8d3-b919-4ef3-99b7-70307876b04b)
+
+![image](https://github.com/user-attachments/assets/880b1e64-1860-4053-a1b9-6d3a0172dff8)
+- matplotlib & seaborn
+![image](https://github.com/user-attachments/assets/c42c0df5-be42-4312-a3a6-9927e1f3c99c)
+
+![image](https://github.com/user-attachments/assets/00552643-e8d1-4e10-b71b-8b512e481a97)
+![image](https://github.com/user-attachments/assets/ef9c47fe-ec6f-425d-96fc-5c518dcedd71)
+
+- visulizations
+  - scatter plot (showing corellations)
+    ![image](https://github.com/user-attachments/assets/0fc60219-549e-440c-b2d7-0cd4c5b1f473)
+    ![image](https://github.com/user-attachments/assets/55e273ed-07b5-4304-ae0d-5900f3c343b5)
+- box plot (for skews and outliers)
+  ![image](https://github.com/user-attachments/assets/6ead7e13-b6a7-4e2c-8e4f-2b4992f568f6)
+
+![image](https://github.com/user-attachments/assets/10ab0e6d-1c6a-471d-a214-7d86872955c5)
 
 
 
