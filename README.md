@@ -35,6 +35,41 @@ https://www.coursera.org/learn/sql-data-science/
 
 
 ## M3 - Intermediate SQL
+![image](https://github.com/user-attachments/assets/b62cc389-f1d4-418e-91b4-6d20c8882990)
+
+### Refining your results
+![image](https://github.com/user-attachments/assets/54fecc8b-eb47-4174-aab3-abc3180b6382)
+
+#### string patterns and ranges
+![image](https://github.com/user-attachments/assets/e9b90f71-18bc-4273-bd90-0f86943ae64e)
+![image](https://github.com/user-attachments/assets/eb57ff29-3447-47f8-84fb-c562fd29544b)
+![image](https://github.com/user-attachments/assets/99471e12-d003-4fe9-80ad-c7ceac75d953)
+![image](https://github.com/user-attachments/assets/e6ecf0a5-7cf7-4da9-ae8a-21dac9e3362e)
+
+#### Sorting Result Sets
+![image](https://github.com/user-attachments/assets/5811485f-7652-4eeb-b48e-37b1be4beb43)
+![image](https://github.com/user-attachments/assets/794dd50c-8b11-4a79-964f-3111248dfd66)
+![image](https://github.com/user-attachments/assets/c6d2d5cd-fb55-497f-823b-09bd6906c852)
+![image](https://github.com/user-attachments/assets/66ef98f8-ceb8-426e-863e-8193c83d272d)
+
+#### Grouping Result Sets
+![image](https://github.com/user-attachments/assets/ba420584-2393-4c07-9e19-28f13e2ff438)
+![image](https://github.com/user-attachments/assets/761734e4-9d29-4d4b-9b9c-6d981907c4a8)
+
+![image](https://github.com/user-attachments/assets/109480dc-60f7-4a6e-8e77-f4e94a9341fe)
+![image](https://github.com/user-attachments/assets/9317854a-fd67-41c4-801d-e2ae9b2137e6)
+
+![image](https://github.com/user-attachments/assets/c4c31510-d938-4d3e-9837-e55f6826b1d9)
+
+
+
+
+
+
+
+
+
+
 
 ## M4 - Accessing Databases using Python
 
