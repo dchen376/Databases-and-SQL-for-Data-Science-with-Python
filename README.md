@@ -124,15 +124,68 @@ https://www.coursera.org/learn/sql-data-science/
 (note: the first select statement was actually also correct!!)
 
 
-
-
-
-
-
-
-
 ## M4 - Accessing Databases using Python
+![image](https://github.com/user-attachments/assets/e5cdefe2-2429-4d64-baa7-22ab2f928c13)
+
+#### How to Access Databases Using Python
+![image](https://github.com/user-attachments/assets/61cb0b17-6198-4e8a-aeec-bf6075a1d407)
+
+![image](https://github.com/user-attachments/assets/797fbbb5-5de6-48bc-badf-7f7301057987)
+
+- notebook
+  ![image](https://github.com/user-attachments/assets/dc46b686-b7fa-483b-b264-4829cd6df545)
+![image](https://github.com/user-attachments/assets/a515ad9b-3164-43ad-8b0d-266fbfa10da1)
+
+![image](https://github.com/user-attachments/assets/7a5b5a35-084b-4850-8625-08624e1e7e3e)
+
+- SQL API
+![image](https://github.com/user-attachments/assets/1cba2182-50c4-4770-a0cc-ddedc1d3dba8)
+![image](https://github.com/user-attachments/assets/0d103908-3ef8-4c0d-be74-37f51f5542a2)
+
+
+
+#### Writing code using DB-API
+![image](https://github.com/user-attachments/assets/5ec786da-2f60-4ac9-897b-6d16fdb32aeb)
+![image](https://github.com/user-attachments/assets/269f686e-4151-4d42-94ac-601dbbe6d3e5)
+
+![image](https://github.com/user-attachments/assets/e90d7c33-4f9f-4830-9d88-2811a3a7acb7)
+(libraries used to connect to Python Applications)
+
+- connection objects and cursor objects
+![image](https://github.com/user-attachments/assets/59bf9a15-1f46-4977-9315-593ec55cc9f9)
+![image](https://github.com/user-attachments/assets/2e5f8aa8-ef6d-4126-bea7-9d6aba86c863)
+
+![image](https://github.com/user-attachments/assets/015fd6e7-43e0-491f-bf78-6eeeb7ee7206)
+
+![image](https://github.com/user-attachments/assets/2c8d1f31-bca9-486c-b7dd-39cd4bf10b22)
+
+![image](https://github.com/user-attachments/assets/1ad81732-db8e-42d3-84cd-63e5d1c3f369)
+
+
+#### Accessing Databases with SQL Magic
+![image](https://github.com/user-attachments/assets/0d5a1a40-bca9-44fc-abaa-893895e7d7ba)
+
+![image](https://github.com/user-attachments/assets/d74b08b5-c7a5-48f4-ab35-040a019d3c7f)
+- line magic & cell magic statements
+![image](https://github.com/user-attachments/assets/61fefb74-a0d2-4dd6-9f97-8198c34305df)
+![image](https://github.com/user-attachments/assets/01c7e584-7bd2-4ad2-9004-e35e05fe25ea)
+![image](https://github.com/user-attachments/assets/4940cec0-d47f-4058-bc90-7451a5456877)
+![image](https://github.com/user-attachments/assets/78c4b2d6-cfc5-4478-924c-884a5974c5ff)
+
+![image](https://github.com/user-attachments/assets/0405aa3b-91cd-4130-b862-507c443505fe)
+![image](https://github.com/user-attachments/assets/80ade4cc-2992-4a0d-a018-d616c7eda82e)
+
+![image](https://github.com/user-attachments/assets/c1d1a902-d359-428c-b39d-9a5ee8bec2c7)
+
+
+
+
+
 
 ## M5- Course Assignment
+
+
+
+
 
 ## M6 - Bonus Module: Advanced SQL for Data Engineer (Honors)
