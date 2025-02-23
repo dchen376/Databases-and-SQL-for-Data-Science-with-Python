@@ -1,4 +1,4 @@
-# Databases-and-SQL-for-Data-Science-with-Python
+cof# Databases-and-SQL-for-Data-Science-with-Python
 https://www.coursera.org/learn/sql-data-science/
 
 ## M1 - Getting Started with SQL
@@ -121,7 +121,7 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/db7cd999-8062-4b04-8818-8c2a1216dda8)
 
 ![image](https://github.com/user-attachments/assets/80f9a5e7-51e0-4f49-8a01-3949007f1bfc)
-(note: the first select statement was Incorrect!)
+(note: the first select statement was actually also correct!!)
 
 
 
