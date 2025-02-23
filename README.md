@@ -92,10 +92,34 @@ https://www.coursera.org/learn/sql-data-science/
   ![image](https://github.com/user-attachments/assets/9244ea5a-ecd2-47e9-ba73-ab02bcad31b7)
 ![image](https://github.com/user-attachments/assets/d82cf967-6588-46aa-aa49-4db43232df69)
 
+#### Sub-Queries and Nested Selects
+- sub-queries
+![image](https://github.com/user-attachments/assets/9c03f306-99a7-4b03-a3ca-9d5de5fa31d0)
+![image](https://github.com/user-attachments/assets/5eee3af2-17c9-448b-b0f9-e1e56409d949)
+
+![image](https://github.com/user-attachments/assets/e69a747f-dad8-4cbf-a7c5-0512c03f0ef3)
+(first select statement would be wrong since you'll need the 'group-by' clause, but solved with the sub-queries).
+
+-Derived tables or Table expressions
+![image](https://github.com/user-attachments/assets/0c387a8e-9acf-4265-87fb-c33d6b14c6b7)
+
+![image](https://github.com/user-attachments/assets/8edd3b0a-73ce-4c61-ba73-4976e90891ca)
+
+#### Working with Multiple Tables
+![image](https://github.com/user-attachments/assets/a3bf2b27-e43c-47bd-925a-0b188e6e292c)
+
+- with sub-queries
+![image](https://github.com/user-attachments/assets/e68b0aea-3d73-4b2a-9287-3f3b6c4bac2d)
+![image](https://github.com/user-attachments/assets/4c37c12a-50cd-4168-936d-cc9c6d09454e)
 
 
+- implicit Joins
+![image](https://github.com/user-attachments/assets/e5b934f6-bd25-4c0e-b430-844029b38ef4)
+(a full join)
 
-
+![image](https://github.com/user-attachments/assets/62555c60-16e0-4dd6-a574-e973ddf7bdee)
+![image](https://github.com/user-attachments/assets/db7cd999-8062-4b04-8818-8c2a1216dda8)
+![image](https://github.com/user-attachments/assets/80f9a5e7-51e0-4f49-8a01-3949007f1bfc)
 
 
 
