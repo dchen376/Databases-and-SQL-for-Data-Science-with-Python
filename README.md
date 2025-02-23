@@ -63,6 +63,17 @@ https://www.coursera.org/learn/sql-data-science/
 
 
 
+### Functions, Multiple Tables, and Sub-queries
+
+#### Built-in Database Functions
+![image](https://github.com/user-attachments/assets/c3317076-8700-41cc-b3bd-f0c63fa653d9)
+
+- aggregate functions
+  ![image](https://github.com/user-attachments/assets/ac574cea-fa0d-4292-b216-36a7327efb9a)
+![image](https://github.com/user-attachments/assets/6eccdd3c-691b-4f82-b8ce-ea9dd88ad0e5)
+![image](https://github.com/user-attachments/assets/2fa59523-26f2-498b-b2a0-7a59cdc67435)
+
+
 
 
 
