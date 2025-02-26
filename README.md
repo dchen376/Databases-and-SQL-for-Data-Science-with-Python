@@ -328,10 +328,19 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/5a88f9e0-a90e-4400-b1d7-a4fc2b6ae03a)
 
 ![image](https://github.com/user-attachments/assets/ebb524c0-9a4e-48f4-bbe9-c8dab2637ee7)
+![image](https://github.com/user-attachments/assets/4a5e0d29-42c2-4d9c-8115-e26756a8abbb)
+(three people have never taken a book on Loan)
 
 ![image](https://github.com/user-attachments/assets/212ff716-0222-41b2-bbcf-3f477f199991)
+![image](https://github.com/user-attachments/assets/0a46b3b7-6df6-4773-aec6-570587bab4b6)
+(like indicating a book is loaned to an unknown person!)
 
 ![image](https://github.com/user-attachments/assets/e7f096fa-150d-4344-bdc0-1740cca96195)
+![image](https://github.com/user-attachments/assets/33d64d7b-55af-416a-9773-f70f5e7d5175)
+(for people have never taken a book on Loan)
+(and for one borrower of the book that is unknown)
 
+![image](https://github.com/user-attachments/assets/92ef4e27-96ca-4970-9806-b57dd952ce1c)
 
+*note: In a LEFT JOIN, even though the operation involves both tables, the key part of the statement is that the left table will always return all rows, even if there is no match in the right table.
 
