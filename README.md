@@ -271,6 +271,8 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/2037e99b-b02b-4407-bedd-210cdd879cf5)
 (stored procedure example)
 
+*note: A stored procedure is stored directly in the database itself. When you create the stored procedure using the CREATE PROCEDURE statement, it is saved in the database's system catalog (also called the data dictionary). Once created, it can be executed repeatedly without needing to rewrite or recompile the SQL code each time.
+
 #### ACID Transactions
 ![image](https://github.com/user-attachments/assets/d4233383-0261-4714-b5e6-ef8b2a62b428)
 
