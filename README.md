@@ -272,8 +272,23 @@ https://www.coursera.org/learn/sql-data-science/
 #### ACID Transactions
 ![image](https://github.com/user-attachments/assets/d4233383-0261-4714-b5e6-ef8b2a62b428)
 
+![image](https://github.com/user-attachments/assets/b27ef2eb-a05f-4472-bc1e-d8458b82f1a3)
+![image](https://github.com/user-attachments/assets/1b110599-68e1-4a73-8fa6-e7f3a35733e8)
+
+##### ACID (Atomic, Consistent, Isolated, Durable)
+![image](https://github.com/user-attachments/assets/4df07a85-7f4e-4d5d-8dfa-7f6de1bf51b7)
+
+![image](https://github.com/user-attachments/assets/f86e2b36-3bd4-44fc-9b10-0d0212c73c6f)
 
 ##### commits & rollbacks
+![image](https://github.com/user-attachments/assets/1f6ce683-bb8e-434e-ae17-08d5b8a727f4)
+![image](https://github.com/user-attachments/assets/6bd8fc88-497f-4ef8-a62c-596522de9e80)
+
+![image](https://github.com/user-attachments/assets/724efdf5-52fb-4a05-89b0-6ca6539100f6)
+
+![image](https://github.com/user-attachments/assets/61153d93-c59f-4aab-9ccb-87a2dc6b4170)
+
+
 
 
 
