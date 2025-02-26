@@ -229,8 +229,32 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/bb4adbdb-0b05-4412-9cb7-a3b275de5be1)
 
 
-
-
-
-
 ## M6 - Bonus Module: Advanced SQL for Data Engineer (Honors)
+![image](https://github.com/user-attachments/assets/497fc999-7b65-46a2-b167-93425e326828)
+
+### Views, Stored Procedures, Transactions
+
+#### Views
+![image](https://github.com/user-attachments/assets/6cee5f59-6af8-49e1-99e4-660a9d86bfb1)
+![image](https://github.com/user-attachments/assets/39bc23c2-7be0-4dfe-b2d4-4624869ede85)
+
+![image](https://github.com/user-attachments/assets/cb8599e3-6a3d-406d-8933-a6509a6500a1)
+![image](https://github.com/user-attachments/assets/474b1d97-067e-41bf-a264-1918c98e85b7)
+![image](https://github.com/user-attachments/assets/b57a908b-d471-4ecf-ad33-437d72001ca8)
+
+![image](https://github.com/user-attachments/assets/5544966f-7c50-4a51-b586-e662c81f2d3c)
+(* views can use group_by, but not order_by statements)
+(ORDER BY inside a view does not necessarily preserve the order of rows when you query the view mainly because SQL is a declarative language, which means you specify what you want to retrieve, not how to retrieve it. The SQL engine decides the most efficient way to retrieve the data.)
+
+![image](https://github.com/user-attachments/assets/028364e4-0cbf-4a69-a85d-f1294b5de07c)
+
+![image](https://github.com/user-attachments/assets/0b93b0fa-7ce7-4356-af90-fca00e6216b4)
+
+
+
+
+
+
+### JOIN Statements
+
+
