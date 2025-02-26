@@ -253,6 +253,28 @@ https://www.coursera.org/learn/sql-data-science/
 - to update a View
   ![image](https://github.com/user-attachments/assets/9532f818-9b60-49a4-b16b-66520f8f30d2)
 
+#### Stored Procedures
+![image](https://github.com/user-attachments/assets/3205c54a-3eab-4799-a2ac-133547399d58)
+
+![image](https://github.com/user-attachments/assets/0d355252-9e7e-4cc0-b5cb-3575b2d800ff)
+![image](https://github.com/user-attachments/assets/28625475-ef2a-43fd-8c28-1c1987650f14)
+
+![image](https://github.com/user-attachments/assets/cd8c76b0-a10e-4b8d-b418-fbf46926e1c1)
+
+![image](https://github.com/user-attachments/assets/eb819bed-9c83-44d1-b6ef-49d053658008)
+![image](https://github.com/user-attachments/assets/552966f3-7e78-4a88-963e-f912bd9d294b)
+
+![image](https://github.com/user-attachments/assets/1721bbb5-bec7-4524-a5db-34ae49904e4d)
+
+![image](https://github.com/user-attachments/assets/123ad955-7d6f-45f9-b8b7-6ce878aa34c7)
+
+
+#### ACID Transactions
+![image](https://github.com/user-attachments/assets/d4233383-0261-4714-b5e6-ef8b2a62b428)
+
+
+##### commits & rollbacks
+
 
 
 
