@@ -309,3 +309,29 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/138ba403-7411-4199-a781-26460ca02cc3)
 ![image](https://github.com/user-attachments/assets/15665e88-c7f9-4364-b8e0-e96cf450c5a5)
 
+![image](https://github.com/user-attachments/assets/f782a236-6648-4d11-9ef4-66d00860c041)
+![image](https://github.com/user-attachments/assets/71c1e532-ad82-4784-9839-83c119bf81f7)
+
+- types of joins
+  ![image](https://github.com/user-attachments/assets/4e982d7c-2f5f-47fa-890c-f9fb65974401)
+
+![image](https://github.com/user-attachments/assets/8b782fca-1166-4417-b749-4e63b5bb67b3)
+
+
+#### Inner Join
+![image](https://github.com/user-attachments/assets/6e57d214-21f4-40a3-8380-fd2d59cac5ee)
+
+![image](https://github.com/user-attachments/assets/dbaa83e9-4741-4546-b2a9-ea4b09726d14)
+(rows are displayed if the condition is matched)
+
+#### Outer Joins
+![image](https://github.com/user-attachments/assets/5a88f9e0-a90e-4400-b1d7-a4fc2b6ae03a)
+
+![image](https://github.com/user-attachments/assets/ebb524c0-9a4e-48f4-bbe9-c8dab2637ee7)
+
+![image](https://github.com/user-attachments/assets/212ff716-0222-41b2-bbcf-3f477f199991)
+
+![image](https://github.com/user-attachments/assets/e7f096fa-150d-4344-bdc0-1740cca96195)
+
+
+
