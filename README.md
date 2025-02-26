@@ -268,6 +268,8 @@ https://www.coursera.org/learn/sql-data-science/
 
 ![image](https://github.com/user-attachments/assets/123ad955-7d6f-45f9-b8b7-6ce878aa34c7)
 
+![image](https://github.com/user-attachments/assets/2037e99b-b02b-4407-bedd-210cdd879cf5)
+(stored procedure example)
 
 #### ACID Transactions
 ![image](https://github.com/user-attachments/assets/d4233383-0261-4714-b5e6-ef8b2a62b428)
