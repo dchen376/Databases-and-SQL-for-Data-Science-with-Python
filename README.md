@@ -295,7 +295,6 @@ https://www.coursera.org/learn/sql-data-science/
 
 - how to call a procedure routine
 ![image](https://github.com/user-attachments/assets/b729170f-4fa8-4b19-9721-169a32b3f4fa)
-![image](https://github.com/user-attachments/assets/15665e88-c7f9-4364-b8e0-e96cf450c5a5)
 
 
 
@@ -308,5 +307,5 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/c4bbfae0-f5ff-4138-8317-357afe4fac00)
 
 ![image](https://github.com/user-attachments/assets/138ba403-7411-4199-a781-26460ca02cc3)
-
+![image](https://github.com/user-attachments/assets/15665e88-c7f9-4364-b8e0-e96cf450c5a5)
 
