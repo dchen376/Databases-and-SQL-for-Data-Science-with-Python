@@ -344,3 +344,9 @@ https://www.coursera.org/learn/sql-data-science/
 
 *note: In a LEFT JOIN, even though the operation involves both tables, the key part of the statement is that the left table will always return all rows, even if there is no match in the right table.
 
+
+* using union (vs. using Full Outer Join)
+  ![image](https://github.com/user-attachments/assets/643e3af7-aba7-4daa-935d-a515a5a4460c)
+
+![image](https://github.com/user-attachments/assets/aa442605-2d6b-42af-a13b-6027e712e140)
+
