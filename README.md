@@ -250,6 +250,8 @@ https://www.coursera.org/learn/sql-data-science/
 
 ![image](https://github.com/user-attachments/assets/0b93b0fa-7ce7-4356-af90-fca00e6216b4)
 
+- to update a View
+  ![image](https://github.com/user-attachments/assets/9532f818-9b60-49a4-b16b-66520f8f30d2)
 
 
 
