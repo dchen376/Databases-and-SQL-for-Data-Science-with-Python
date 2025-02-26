@@ -209,6 +209,25 @@ https://www.coursera.org/learn/sql-data-science/
 
 
 ## M5- Course Assignment
+![image](https://github.com/user-attachments/assets/0af7c596-c4ac-41b5-9044-ed4ae56c5eb8)
+
+### Assignment Preparation: Working with real-world data sets and built-in SQL functions
+![image](https://github.com/user-attachments/assets/69951d3d-1cca-41d7-ad94-c3eb8c6a8be0)
+
+![image](https://github.com/user-attachments/assets/7b9fc422-e2eb-4dbe-a692-95ee7e15400e)
+
+![image](https://github.com/user-attachments/assets/3ce930c6-3fe8-4a4e-87f3-3d92d47bfca7)
+
+![image](https://github.com/user-attachments/assets/bd47da6e-dd5f-4dc2-add6-70cef07a22e9)
+
+### Getting Table and Column Details
+![image](https://github.com/user-attachments/assets/464d98e7-f2f9-44d0-9903-f1ef7183bc76)
+
+![image](https://github.com/user-attachments/assets/406359ef-5dbf-4ea1-a405-77fa90b7e730)
+![image](https://github.com/user-attachments/assets/014bdf13-7fe5-4e88-a819-db2dc71e9ba3)
+
+![image](https://github.com/user-attachments/assets/bb4adbdb-0b05-4412-9cb7-a3b275de5be1)
+
 
 
 
