@@ -289,7 +289,12 @@ https://www.coursera.org/learn/sql-data-science/
 ![image](https://github.com/user-attachments/assets/61153d93-c59f-4aab-9ccb-87a2dc6b4170)
 
 
+- lab example
+![image](https://github.com/user-attachments/assets/743dde42-dcfc-47d2-a046-2316b1fc91b3)
+(Create a stored procedure TRANSACTION_JAMES to execute a transaction based on the following scenario: First buy James 4 pairs of Trainers from ShoeShop. Update his balance as well as the balance of ShoeShop. Also, update the stock of Trainers at ShoeShop. Then attempt to buy James a pair of Brogues from ShoeShop. If any of the UPDATE statements fail, the whole transaction fails. You will roll back the transaction. Commit the transaction only if the whole transaction is successful.)
 
+- how to call a procedure routine
+![image](https://github.com/user-attachments/assets/b729170f-4fa8-4b19-9721-169a32b3f4fa)
 
 
 
